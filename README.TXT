@@ -1,6 +1,7 @@
 
 PROJECT TITLE: Coursework- Reliable Administration and Translation Servise (RATS)
 AUTHOR: Natallia Akuelnka
+Technology: Java, BlueJ
 
 The Reliable Administration and Translation Service (RATS) provide staff  to perform office and translation jobs 
 for clients. Branches at different locations e.g. Watford, are responsible for accepting jobs from clients, 
