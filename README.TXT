@@ -1,4 +1,4 @@
-<h1>administration-service-java</h1>
+# administration-service-java
 
 PROJECT TITLE: Coursework- Reliable Administration and Translation Servise (RATS)
 Technology: Java, BlueJ
@@ -17,9 +17,9 @@ Typists and translators may also offer shorthand. Typists should provide an emai
 Only translators can translate and must specify a foreign language.
 
 Each staff  member at a branch has an availability status, which will be one of the following:
-•	available (for jobs)
-•	working (assigned to a job and unavailable for other jobs)
-•	unavailable (for jobs e.g. on holiday, ill, busy etc.)
+1.available (for jobs)
+2.working (assigned to a job and unavailable for other jobs)
+3.unavailable (for jobs e.g. on holiday, ill, busy etc.)
 
 When a staff member is added to the branch, their availability status is "available".
 
